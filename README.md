@@ -1,5 +1,5 @@
-# microscope-mobile-sidemenu
- browserify ionic project / npm workflow sidemenu template
+# microscope-mobile-firebase
+ browserify ionic project / npm workflow template with firebase backend as a service. 
 
  Requirements
 ------------
