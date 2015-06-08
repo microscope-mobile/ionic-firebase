@@ -1,0 +1,8 @@
+{
+  "name": "microscope-mobile-sidemenu",
+  "app_id": "",
+  "gulpStartupTasks": [
+    "build",
+    "watch"
+  ]
+}

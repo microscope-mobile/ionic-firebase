@@ -1,0 +1,9 @@
+<ion-view title="Firebase">
+	<ion-content>
+		<ion-list>
+			<ion-item ng-repeat="superhero in vm.superheroes" href="#/app/firebase/{{superhero.$id}}">
+				{{superhero.firstname}} {{superhero.lastname}}
+			</ion-item>
+		</ion-list>
+	</ion-content>
+</ion-view>
