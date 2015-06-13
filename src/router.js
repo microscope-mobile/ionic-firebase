@@ -44,7 +44,7 @@ function Router($stateProvider, $urlRouterProvider) {
     }
   });
   
-  $urlRouterProvider.otherwise("/app/firebase");
+  $urlRouterProvider.otherwise('/app/firebase');
 }
 
 module.exports = Router;
