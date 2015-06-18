@@ -1,4 +1,4 @@
-# microscope-mobile-firebase
+# ionic-firebase
  browserify ionic project / npm workflow template with firebase backend as a service. 
 
  Requirements
