@@ -2,6 +2,10 @@
   "name": "ionic-firebase",
   "version": "1.0.0",
   "description": "A custom Ionic project",
+  "scripts": {
+    "start": "http-server ./www -s",
+    "test": "gulp test"
+  },
   "dependencies": {
     "angular": "^1.4.0",
     "angular-animate": "^1.4.0",
@@ -10,6 +14,7 @@
     "angularfire": "^1.1.1",
     "browserify-shim": "^3.8.7",
     "firebase": "^2.2.6",
+    "http-server": "^0.8.5",
     "ionic-npm": "*",
     "ng-cordova": "^0.1.15-alpha"
   },
